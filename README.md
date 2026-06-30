@@ -68,7 +68,7 @@ quantum-randomness-skill/
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/quantum-randomness-skill
+git clone https://github.com/amostony333-arch/quantum-randomness-skill
 cd quantum-randomness-skill
 chmod +x install.sh
 ./install.sh
